@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohanfromEsperance
-- 👀 I’m interested in DATA Analkytics, Digital Twins, the E2E Data thread
+- 👀 I’m interested in DATA Analytics, Digital Twins, the E2E Data thread
 - 🌱 I’m currently learning by participating in the UWA Bootcamp
 - 💞️ I’m looking to collaborate on DDBM - Data drive business Models
 - 📫 How to reach me: johannes.snyman@southenrports.com.au
